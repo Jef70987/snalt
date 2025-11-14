@@ -1,0 +1,14 @@
+
+.snaptik--header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 1000;
+    background-color: black;
+}
+.snaptik-main--pages{
+    padding-top: 2rem;
+    width: 100vw;
+    min-height: 100vh;
+}

@@ -1,0 +1,44 @@
+/* About section */
+.about{
+    justify-content: center;
+    padding: 2rem;
+    padding-top: 15rem;
+    
+}
+
+.about-text{
+    color: #ffffff;
+}
+.about-text a{
+    color: #ff4500;
+    border-radius: 50px;
+}
+
+@media (max-width:900px) {
+    .about{
+        justify-content: center;
+        padding: 2rem;
+        padding-top: 10rem;
+        
+    }
+
+}
+@media (max-width:750px){
+    .about{
+        justify-content: center;
+        padding: 2rem;
+        padding-top: 10rem;
+        
+    }
+
+}
+@media (max-width:400px){
+    
+    .about{
+        justify-content: center;
+        padding: 2rem;
+        padding-top: 5rem;
+        
+    }
+
+}
