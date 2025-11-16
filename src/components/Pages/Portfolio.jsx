@@ -8,86 +8,62 @@ const Portfolio = () => {
     const projects = [
         {
             id: 1,
-            title: "AI-Powered Healthcare Platform",
-            description: "A comprehensive healthcare solution using machine learning for early disease detection and personalized treatment recommendations.",
-            url: "https://healthcare-platform.example.com",
-            image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+            title: "ATRIUM - Beauty Parlour Management System",
+            description: "A comprehensive Parlour/Spa management system with automated no-overlaps bookings, E-commerce integration, Inventory and staff management. .",
+            url: "https://atriumparlour.com",
+            image: "https://atriumparlour.com",
             techStack: ["React", "Python", "TensorFlow", "Node.js", "MongoDB"],
             features: [
-                "Real-time health monitoring",
-                "AI-powered diagnostics",
-                "Secure patient data management",
-                "Mobile-responsive design"
+                "Real-time Bookings",
+                "E-commerce integration",
+                "Secure client data management",
+                "Mobile-responsive design",
+                "Automated appointment scheduling",
+                "Inventory and Staff management"
             ]
         },
+        
         {
             id: 2,
-            title: "Blockchain Supply Chain System",
-            description: "Decentralized supply chain management platform providing transparency and security for global logistics operations.",
-            url: "https://blockchain-supplychain.example.com",
-            image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-            techStack: ["Ethereum", "Solidity", "Web3.js", "React", "IPFS"],
-            features: [
-                "Smart contract implementation",
-                "Real-time tracking",
-                "Fraud prevention",
-                "Multi-party verification"
-            ]
-        },
-        {
-            id: 3,
-            title: "Cybersecurity Threat Intelligence",
-            description: "Advanced threat detection and response system using behavioral analytics and machine learning algorithms.",
+            title: "JAWABU - School Management System",
+            description: "A Joint Advanced Web Analytic and Behavioral Unit with machine learning for career and budget recommendation based on student and school expenditure respectively.",
             url: "https://cybersecurity-platform.example.com",
             image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
             techStack: ["Python", "ELK Stack", "React", "Docker", "Kubernetes"],
             features: [
-                "Real-time threat monitoring",
-                "Automated incident response",
+                "Real-time Updates and analysis",
+                "Instant Messaging",
+                "Secure role-based login",
                 "Compliance reporting",
                 "Custom alert system"
             ]
         },
         {
-            id: 4,
-            title: "Mobile Banking Application",
-            description: "Secure and intuitive mobile banking app with advanced features for modern financial management.",
+            id: 3,
+            title: "Mobile Fee-Payment Application",
+            description: "Secure and intuitive mobile fee payment app with digital receipts.",
             url: "https://mobile-banking.example.com",
             image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
             techStack: ["React Native", "Node.js", "PostgreSQL", "Redis", "AWS"],
             features: [
-                "Biometric authentication",
+                "Biometric/PIN authentication",
                 "Real-time transactions",
-                "Investment tracking",
+                "Payment tracking",
                 "Budget planning tools"
             ]
         },
         {
-            id: 5,
-            title: "E-commerce AI Recommendation Engine",
-            description: "Intelligent product recommendation system that increases conversion rates through personalized shopping experiences.",
-            url: "https://ecommerce-ai.example.com",
-            image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-            techStack: ["Python", "React", "FastAPI", "Redis", "PostgreSQL"],
-            features: [
-                "Personalized recommendations",
-                "Real-time analytics",
-                "A/B testing framework",
-                "Scalable microservices"
-            ]
-        },
-        {
-            id: 6,
-            title: "IoT Smart Home Platform",
-            description: "Comprehensive IoT platform for smart home automation with energy optimization and security features.",
+            id: 4,
+            title: "Community Shield - IoT Smart Security System",
+            description: "Comprehensive IoT platform for smart security serveillance with real-time monitoring and security alerts.",
             url: "https://smart-home.example.com",
             image: "https://images.unsplash.com/photo-1558002038-1055897?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
             techStack: ["React", "Node.js", "MQTT", "MongoDB", "Raspberry Pi"],
             features: [
                 "Device automation",
-                "Energy monitoring",
+                "Live surveillance",
                 "Security alerts",
-                "Voice control integration"
+                "Motion Detection integration"
             ]
         }
     ];

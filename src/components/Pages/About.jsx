@@ -15,7 +15,7 @@ const About = () => {
                         <h2 className="about-section-title">About SYNALT</h2>
                         <div className="about-content">
                             <div className="about-text fade-in">
-                                <p>We are a premier software company focused on the architexture of secure and anlytical systems. Our name reflects our method; We create smart, synaptic links across your technology stack while 
+                                <p>We are a premier software company focused on the architecture of secure and analytical systems. Our name reflects our method; We create smart, synaptic links across your technology stack while 
                                     performing deep analytics to identify and fortify vulnerabilities.
                                 </p>
                                 <p>Our slogan, "<b>building security, bridging solutions</b>",is our engineering mantra. It means we don't just implement security protocols, We build them directly into the DNA of your software. From secure-by-design 
