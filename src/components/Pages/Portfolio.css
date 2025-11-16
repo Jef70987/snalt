@@ -183,9 +183,9 @@
 }
 
 .founder-img {
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
+    width: 270px;
+    height: 350px;
+    border-radius: 10%;
     object-fit: cover;
     border: 5px solid #e9f0fb;
     margin-bottom: 20px;
@@ -402,8 +402,8 @@
     }
     
     .founder-img {
-        width: 200px;
-        height: 200px;
+        width: 250px;
+        height: 250px;
     }
 }
 

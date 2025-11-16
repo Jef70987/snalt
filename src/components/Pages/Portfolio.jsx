@@ -95,7 +95,7 @@ const Portfolio = () => {
     const founderInfo = {
         name: "Masinde Japheth",
         title: "Chief Technology Officer & Founder",
-        image: "./cot.jpg",
+        image: "./cot2.jpg",
         bio: "With over 4+ years of experience in software development and technology leadership, Japheth has been at the forefront of digital innovation. His passion for creating impactful solutions has led to the development of cutting-edge applications used by millions worldwide.",
         skills: {
             "Frontend Development": ["React", "TypeScript", "Next.js", "Tailwind CSS"],

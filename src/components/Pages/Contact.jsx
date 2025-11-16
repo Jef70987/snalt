@@ -15,9 +15,9 @@ const Contact = () => {
 
     // Replace with your actual contact information
     const contactInfo = {
-        whatsapp: '+254718364879',
+        whatsapp: '254718364879',
         email: 'synaltsoftwares@gmail.com',
-        phone: '+254-718-364-89',
+        phone: '+254-718-364-879',
         address: 'Kenya, Nairobi',
         businessHours: {
             weekdays: '9:00 AM - 6:00 PM',
