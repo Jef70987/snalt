@@ -43,7 +43,7 @@ const About = () => {
                     <div className="about--container">
                         <h2 className="about-section-title">About Syntelsafe</h2>
                         <div className="about-content">
-                            <div className="about-text fade-in">
+                            <div className="about-text">
                                 <p>We are a premier software company focused on the architecture of secure and analytical systems. Our name reflects our method; We create smart, synaptic links across your technology stack while 
                                     performing deep analytics to identify and fortify vulnerabilities.
                                 </p>

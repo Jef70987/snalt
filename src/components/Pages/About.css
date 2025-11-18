@@ -2,20 +2,19 @@
 .about{
     justify-content: center;
     padding: 2rem;
-    padding-top: 15rem;
+    padding-top: 10rem;
     display: flex;
-    
 }
 
-.about-text{
-    color: #ffffff;
+.about-text p{
+    color: black;
 }
 .about-text a{
     color: #ff4500;
     border-radius: 50px;
 }
 .about-section-title{
-    color: #ff4500;
+    color: #1d3d6f;
 }
 /* Founder Section */
 .founder-section {

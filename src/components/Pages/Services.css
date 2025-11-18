@@ -1,7 +1,7 @@
 /* Services Section */
 .services-section {
     padding: 80px 0;
-    background: black;
+    background: rgb(221, 220, 220);
 }
 
 .section-title {
@@ -32,7 +32,7 @@
 }
 
 .service-card {
-    background: rgb(1, 2, 20);
+    background: rgb(247, 244, 244);
     border-radius: 15px;
     padding: 40px 30px;
     text-align: center;
