@@ -33,7 +33,7 @@
     border-radius: 50%;
     
 }
-.hero--image{
+.hero--image img{
     border-radius: 50%;
     content: '';
     background: transparent;
@@ -43,7 +43,6 @@
         0 0 300px 250px rgba(65, 105, 255, 0.4)
     ;
     animation: fadeGlow 5s ease-in-out infinite;
-    
 
 }
 
@@ -73,6 +72,27 @@
         border-radius: 50%;
         
     }
+    .hero--image {
+        border-radius: 50%;
+        content: '';
+        background: transparent;
+        box-shadow: 
+            0 0 200px 100px rgba(255, 255, 255, 0.9),
+            0 0 250px 200px rgba(100, 200, 255, 0.7),
+            0 0 300px 250px rgba(65, 105, 255, 0.4)
+        ;
+        animation: fadeGlow 5s ease-in-out infinite;
+
+    }
+
+    @keyframes fadeGlow {
+        0%, 85%,100% {
+            opacity: 0.4;
+        }
+        90%, 95% {
+            opacity: 0;
+        }
+    }
     .achievements{
         display: flex;
         justify-content: space-between;
@@ -99,6 +119,27 @@
         border-radius: 50%;
         
     }
+    .hero--image {
+        border-radius: 50%;
+        content: '';
+        background: transparent;
+        box-shadow: 
+            0 0 200px 100px rgba(255, 255, 255, 0.9),
+            0 0 250px 200px rgba(100, 200, 255, 0.7),
+            0 0 300px 250px rgba(65, 105, 255, 0.4)
+        ;
+        animation: fadeGlow 5s ease-in-out infinite;
+
+    }
+
+    @keyframes fadeGlow {
+        0%, 85%,100% {
+            opacity: 0.4;
+        }
+        90%, 95% {
+            opacity: 0.8;
+        }
+    }
     .achievements{
         display: flex;
         justify-content: space-between;
@@ -123,6 +164,27 @@
         position: relative;
         border-radius: 50%;
         
+    }
+    .hero--image {
+        border-radius: 50%;
+        content: '';
+        background: transparent;
+        box-shadow: 
+            0 0 200px 100px rgba(255, 255, 255, 0.9),
+            0 0 250px 200px rgba(100, 200, 255, 0.7),
+            0 0 300px 250px rgba(65, 105, 255, 0.4)
+        ;
+        animation: fadeGlow 5s ease-in-out infinite;
+
+    }
+
+    @keyframes fadeGlow {
+        0%, 85%,100% {
+            opacity: 0.4;
+        }
+        90%, 95% {
+            opacity: 0;
+        }
     }
     .achievements{
         display: flex;

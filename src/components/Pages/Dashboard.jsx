@@ -19,10 +19,10 @@ const Dashboard = () => {
                 
                 <div className="hero--section">
                     <div className="hero--text">
-                        <h1>SYNAPTIK ANALYTIKS SOFTWARES</h1>
+                        <h1>SYNTELSAFE SOFTWARES</h1>
                          <h4><p><i>Building Security, Bridging solutions</i></p></h4>
                         <div className="hero--content">
-                            <p>In a digital world of constant connection, security is not a fetaure, it's the foundation.
+                            <p>Security is not a fetaure, it's the foundation.
                                 We don't just build systems, we build trust, we create intelligence. We engineer systems where security is intrinsic, not an afterthought. Our focus is building security
                                 that stands up to modern threats.
                                 
