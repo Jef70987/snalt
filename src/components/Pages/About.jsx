@@ -25,7 +25,7 @@ const About = () => {
                 period: "2022 - Present",
                 role: "Founder & CTO",
                 company: "Syntelsafe softwares.",
-                description: "Leading technology strategy and development of innovative software solutions for global clients. Grew the company from 2 to 50+ employees."
+                description: "Leading technology strategy and development of innovative software solutions for global clients."
             },
             
         ],
