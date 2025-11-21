@@ -21,7 +21,7 @@ const Navigation = () =>{
             Link: "/Blog"
         },
         {
-            title:"About",
+            title:"About us",
             Link: "/About"
         },
         {

@@ -21,7 +21,7 @@ function Synaptik(){
                     
                     <Route path='/' element = {<Dashboard/>}/>
                     <Route path='/Home' element = {<Dashboard/>}/>
-                    <Route path='/About us' element = {<About/>}/>
+                    <Route path='/About' element = {<About/>}/>
                     <Route path='/Services' element = {<Services/>}/>
                     <Route path='/Project' element = {<Project/>}/>
                     <Route path='/Portfolio' element = {<Portfolio/>}/>
