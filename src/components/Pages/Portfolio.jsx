@@ -22,9 +22,23 @@ const Portfolio = () => {
                 "Inventory and Staff management"
             ]
         },
-        
         {
             id: 2,
+            title: "Restaurant Website",
+            description: "This immersive online experience captures the essence of Syntel's ambiance, making visitors feel the warmth of our service and the excellence of our cuisine before they even step through our doors.",
+            url: "https://syntel-restaurant.vercel.app/",
+            image: "https://syntel-restaurant.vercel.app/",
+            techStack: ["React", "Node.js", "MQTT", "MongoDB", "Raspberry Pi"],
+            features: [
+                "Makes mouths water with beautifully presented menu items",
+                "Builds anticipation through elegant ambiance previews",
+                "Drives action with seamless contact and reservation options",
+                "Stays memorable across all devices and screen sizes"
+            ]
+        },
+        
+        {
+            id: 3,
             title: "JAWABU - School Management System",
             description: "A Joint Advanced Web Analytic and Behavioral Unit with machine learning for career and budget recommendation based on student and school expenditure respectively.",
             url: "https://cybersecurity-platform.example.com",
@@ -39,7 +53,7 @@ const Portfolio = () => {
             ]
         },
         {
-            id: 3,
+            id: 4,
             title: "Mobile Fee-Payment Application",
             description: "Secure and intuitive mobile fee payment app with digital receipts.",
             url: "https://mobile-banking.example.com",
@@ -53,7 +67,7 @@ const Portfolio = () => {
             ]
         },
         {
-            id: 4,
+            id: 5,
             title: "Community Shield - IoT Smart Security System",
             description: "Comprehensive IoT platform for smart security serveillance with real-time monitoring and security alerts.",
             url: "https://smart-home.example.com",
@@ -65,7 +79,8 @@ const Portfolio = () => {
                 "Security alerts",
                 "Motion Detection integration"
             ]
-        }
+        },
+        
     ];
 
 
